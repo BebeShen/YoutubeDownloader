@@ -20,5 +20,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <!-- 
     Tag: Added, Changed, Deprecated, Removed, Fixed, Security, Bug fixes, Feature
  -->
-<!-- [Unreleased]: https://github.com/BebeShen/YT_downloader/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/BebeShen/YT_downloader/releases/tag/v1.0.0 -->
+<!-- [Unreleased]: https://github.com/BebeShen/YoutubeDownloader/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/BebeShen/YoutubeDownloader/releases/tag/v1.0.0 -->
